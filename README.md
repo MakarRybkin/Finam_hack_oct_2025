@@ -1,5 +1,5 @@
 # Решение Хакатона Finam X HSE Forecast Октябрь 2025 
-## English version below
+[**Go to English Version**](#english-version)
 
 ### Источники данных
 
